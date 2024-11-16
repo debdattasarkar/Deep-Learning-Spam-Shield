@@ -1,5 +1,5 @@
 <h3 align="center">Deep Learning Spam Shield: Advanced TensorFlow LSTM-Based Text Filtering</h3>
----
+<hr/>
 
 
 <div data-purpose="what-you-will-do-list" class="lab-overview--overview-section--fT9-D">
